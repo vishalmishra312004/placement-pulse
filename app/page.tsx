@@ -947,8 +947,9 @@ export default function HomePage() {
               >
                 <Instagram className="h-4 w-4 sm:h-5 sm:w-5" />
               </a>
+              
               <a 
-                href="https://linkedin.com/company/placementpulse" 
+                href="https://www.linkedin.com/company/placement-pulse12/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-110 hover:shadow-lg"
