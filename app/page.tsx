@@ -792,14 +792,14 @@ export default function HomePage() {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 lg:gap-8 max-w-6xl mx-auto">
             {[
-              {
-                name: "Harsh Mehra",
-                role: "IIM Indore",
-                content:
-                  "I lacked confidence and clarity during GD-PI prep, but Placement Pulse gave me the right guidance, practice, and support. Their mentorship boosted my performance and helped me secure admission to IIM Indore.",
-                rating: 5,
-                image: "https://cdn.corenexis.com/files/b/8434467168.jpg"
-              },
+              // {
+              //   name: "Harsh Mehra",
+              //   role: "IIM Indore",
+              //   content:
+              //     "I lacked confidence and clarity during GD-PI prep, but Placement Pulse gave me the right guidance, practice, and support. Their mentorship boosted my performance and helped me secure admission to IIM Indore.",
+              //   rating: 5,
+              //   image: "https://cdn.corenexis.com/files/b/8434467168.jpg"
+              // },
               {
                 name: "Abhijit Kundu",
                 role: "Symbiosis Pune",
